@@ -32,12 +32,10 @@ HEULAS will offer __online badges__ for the software providers that __reflect__ 
 
 ### Other Solutions
 
-This __problem__ is being directly and indirectly __tackeled__ from different angles by __various__ approaches and organizations and, while offering multiple __benefits__ on their own, they either __fall short__ from mitigating risk to end-users, or else they __do not__ apply to the wide __variety__ of software being used in the wild.
+This __problem__ is being directly and indirectly __tackeled__ from different angles by __various__ approaches and organizations. They offering multiple __benefits__ on their own, however each solution individually either __falls short__ from truly mitigating risk to end-users, or else __does not__ apply to the wide __variety__ of software being used in the wild. HEULAS provides a __framework__ that is easy to __integrate__ with each such approach and organization, __combining__ efforts to transition towards, __celebrate__ and maintain ethical software.
 
 ### [See how other solutions tackle this problem](./other_solutions)
 
 ## A Distributed Effort
 
-HEULAS aims to be a truly __distributed__, and people-driven __non-organization__. Suggestions, discussion, and new content is __encouraged__ via the public [GitHub repo]({{ site.github.repository_url }}). Governance will __evolve__ as requirements and needs change __over time__*.
-
-##### \* Forking the repo and imagining alternatives is encouraged under the [GPL3 license]({{ site.github.repository_url }}/blob/main/LICENSE) but, as a word of caution, perhaps it's more prudent to attempt compromises than splinter efforts towards the same cause.
+HEULAS aims to be a truly __distributed__, and people-driven __non-organization__. Suggestions, discussion, and new content is __encouraged__ via the public [GitHub repo]({{ site.github.repository_url }}). Governance will __evolve__ as requirements and needs change __over time__.

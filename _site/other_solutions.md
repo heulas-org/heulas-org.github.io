@@ -34,3 +34,9 @@ The __aims__ of the B-Corporation accredetation are to __increase__ and celebrat
 In __principle__, software maintained by a certified __B-Corporation__ should greatly __mitigate__ the risks to end-users we have outlined. __However__, the certification does not specifically __address__ these risks, providing __leeway__ for companies to engage in __practices__ that result in these risks materializing.
 
 __Furthermore__, a B-Corp accredetation is legally __non-binding__ with regards to the __actions__ a software provider may take, which offers no __legal__ protection for the end-user, both __during__ the accredetation, nor if it is __revoked__.
+
+## CHT
+
+The [Center for Humane Technology](https://www.humanetech.com/) (CHT) was born out of a __frustration__ with current technology __trends__, and aims to both explore the __psychological__ risks in continuing down the path we're on, as well as explore and __promote__ a healthy path __forward__.
+
+The Center for __Humane__ Technology conducts and __promotes__ research, education, policy and software __initiatives__. These address __many__ of the risks we have identified (and others we have not,) __however__ the CHT does not offer a solid __framework__ to protect end-users, and only provides __advice__ on how to voluntarily mitigate the risks.
